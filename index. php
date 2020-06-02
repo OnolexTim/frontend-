@@ -1,0 +1,4 @@
+# frontend-
+Frontend web development using hypertext markup language 5, cascading style sheet 3, javascript and bootstraps.
+var input= ["Abasiono" + " Timothy" + " with" "HNGi7 ID [HNG-03400]" + " using [javasscript]"] 
+alert("hello world,  this is + input)
